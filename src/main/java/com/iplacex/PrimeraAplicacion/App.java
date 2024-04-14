@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!, desde Eclipse en un proyecto MAVEN" );
+        System.out.println( "Hello World!, desde Eclipse en un proyecto MAVEN, ahora descargado desde GitHub" );
     }
 }
